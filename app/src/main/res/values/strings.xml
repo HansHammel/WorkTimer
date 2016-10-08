@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Work Timer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configure this view</string>
+    <string name="my_locations">My locations</string>
+    <string name="statistic">Statistic</string>
+    <string name="web_work_timer">Web Work Timer</string>
+    <string name="settings">Settings</string>
+    <string name="company">Company</string>
+    <string name="licence">Licence</string>
+    <string name="about">About</string>
+    <string name="main">Main</string>
+</resources>

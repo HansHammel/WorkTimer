@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_main"
+            android:icon="@drawable/ic_menu_main"
+            android:title="@string/main" />
+        <item
+            android:id="@+id/menu_my_locations"
+            android:icon="@drawable/ic_menu_location"
+            android:title="@string/my_locations" />
+        <item
+            android:id="@+id/menu_statistic"
+            android:icon="@drawable/ic_menu_statistic"
+            android:title="@string/statistic" />
+        <item
+            android:id="@+id/menu_web_work_timer"
+            android:icon="@drawable/ic_menu_web"
+            android:title="@string/web_work_timer" />
+        <item
+            android:id="@+id/menu_settings"
+            android:icon="@drawable/ic_menu_settings"
+            android:title="@string/settings" />
+    </group>
+
+    <item android:title="@string/company">
+        <menu>
+            <item
+                android:id="@+id/menu_licence"
+                android:icon="@drawable/ic_menu_licence"
+                android:title="@string/licence" />
+            <item
+                android:id="@+id/menu_about"
+                android:icon="@drawable/ic_menu_about"
+                android:title="@string/about" />
+        </menu>
+    </item>
+
+</menu>
